@@ -1,0 +1,1427 @@
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8
+
+........................................................................
+
+
+	Valor de  id                :2819983
+	Valor de  nickname:ladygrenadine75
+curl -s 'https://www.wyylde.com/rest/message/send/2819983' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2819983/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2819983,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1a83ba8)
+
+	Valor de  id                :2285124
+	Valor de  nickname:lunasola
+curl -s 'https://www.wyylde.com/rest/message/send/2285124' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2285124/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2285124,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242bd70)
+
+	Valor de  id                :2767161
+	Valor de  nickname:Muse2610
+curl -s 'https://www.wyylde.com/rest/message/send/2767161' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2767161/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2767161,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2465218)
+
+	Valor de  id                :2622911
+	Valor de  nickname:sweetlady
+curl -s 'https://www.wyylde.com/rest/message/send/2622911' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2622911/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2622911,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242ba28)
+
+	Valor de  id                :2256157
+	Valor de  nickname:lolitamaso
+curl -s 'https://www.wyylde.com/rest/message/send/2256157' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2256157/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2256157,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242b998)
+
+	Valor de  id                :1576369
+	Valor de  nickname:drella
+curl -s 'https://www.wyylde.com/rest/message/send/1576369' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/1576369/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":1576369,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242b9b0)
+
+	Valor de  id                :3120996
+	Valor de  nickname:Minounett
+curl -s 'https://www.wyylde.com/rest/message/send/3120996' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3120996/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3120996,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242ba70)
+Existe
+
+	Valor de  id                :2648206
+	Valor de  nickname:ma-92
+curl -s 'https://www.wyylde.com/rest/message/send/2648206' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2648206/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2648206,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242ba40)
+
+	Valor de  id                :2136718
+	Valor de  nickname:amouretsens_92
+curl -s 'https://www.wyylde.com/rest/message/send/2136718' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2136718/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2136718,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2465248)
+
+	Valor de  id                :652170
+	Valor de  nickname:1001-nuits
+curl -s 'https://www.wyylde.com/rest/message/send/652170' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/652170/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":652170,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242b9c8)
+
+	Valor de  id                :2671074
+	Valor de  nickname:cindy2291
+curl -s 'https://www.wyylde.com/rest/message/send/2671074' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2671074/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2671074,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2465260)
+
+	Valor de  id                :3056854
+	Valor de  nickname:Melissa165
+curl -s 'https://www.wyylde.com/rest/message/send/3056854' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3056854/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3056854,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1a83ba8)
+
+	Valor de  id                :2058289
+	Valor de  nickname:messaline.92
+curl -s 'https://www.wyylde.com/rest/message/send/2058289' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2058289/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2058289,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242bd70)
+
+	Valor de  id                :2905431
+	Valor de  nickname:tornade73
+curl -s 'https://www.wyylde.com/rest/message/send/2905431' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2905431/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2905431,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2465218)
+
+	Valor de  id                :2646346
+	Valor de  nickname:a-decouvrir26
+curl -s 'https://www.wyylde.com/rest/message/send/2646346' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2646346/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2646346,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242ba28)
+
+	Valor de  id                :2868377
+	Valor de  nickname:miss-doodle
+curl -s 'https://www.wyylde.com/rest/message/send/2868377' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2868377/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2868377,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242b998)
+
+	Valor de  id                :3141477
+	Valor de  nickname:Mojitsolo
+curl -s 'https://www.wyylde.com/rest/message/send/3141477' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3141477/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3141477,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242b9b0)
+
+	Valor de  id                :2653855
+	Valor de  nickname:gwendoline13
+curl -s 'https://www.wyylde.com/rest/message/send/2653855' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2653855/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2653855,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242ba70)
+
+	Valor de  id                :3181295
+	Valor de  nickname:liloulilli91
+curl -s 'https://www.wyylde.com/rest/message/send/3181295' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3181295/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3181295,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x242ba40)
+
+	Valor de  id                :3175283
+	Valor de  nickname:Promenons_nous
+curl -s 'https://www.wyylde.com/rest/message/send/3175283' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzMjYwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkNnRHeHpuT0JCVGJQNnVDVlB2NVVGLnkwYXUzTlAyRTU2N2VTaEthbmRNYmFxb3hBS0hoYWEiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJDlpNUJOUFhpMHZrOElIVTEuNU4uUHVhdll4cXRoOWZ6VjY1WDE1Wk5ZNmhCcWJSZDNVRDJPIn0.2A-TMQUMt-ObfICoft62zVotQvxBommJ61Zy8FY_Nn8' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3175283/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3175283,"msg":"bonjour, votre profil est sympa...on peut discuter?
+"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2465248)
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzNTkwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkbEcuMEM2S1A4UElwZjYxVmlMVllUT0F5WEJZQXMzRTBZN2E2NFN1b01QSVd6NnZIb0VTNGkiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJHBRVEQ5ZDNLaUNsc24wWlQ1TE4wOC44d29WVXNDLmlQYThNNzRQdFFSemwyMTFETUpvcThpIn0.LTrtPYQvrYjXS0bS-6UWy-nC0tNLm_57-01uU41XQ3Q
+
+........................................................................
+
+
+	Valor de  id                :2050474
+	Valor de  nickname:xploratrice
+	Valor de  status:success
+	Valor de  errors:ARRAY(0xfd5ba8)
+
+
+	Valor de  id                :760387
+	Valor de  nickname:maryjoe
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197dc68)
+
+
+	Valor de  id                :2611103
+	Valor de  nickname:luna2655
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x19b72f0)
+
+
+	Valor de  id                :2354485
+	Valor de  nickname:katia94
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197db00)
+
+
+	Valor de  id                :3113227
+	Valor de  nickname:dabe85
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197da70)
+
+
+	Valor de  id                :2932939
+	Valor de  nickname:ma-irina
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197da88)
+
+
+	Valor de  id                :3089046
+	Valor de  nickname:anginha
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197db48)
+
+
+	Valor de  id                :2976361
+	Valor de  nickname:Mdelices_91
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197db18)
+
+
+	Valor de  id                :2497232
+	Valor de  nickname:mesfantasmes
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x19b7320)
+
+
+	Valor de  id                :2229330
+	Valor de  nickname:contesnocturnes
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197daa0)
+
+
+	Valor de  id                :2536947
+	Valor de  nickname:calypso-95
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x19b7338)
+
+
+	Valor de  id                :2964186
+	Valor de  nickname:Bettielove
+	Valor de  status:success
+	Valor de  errors:ARRAY(0xfd5ba8)
+
+
+	Valor de  id                :2669796
+	Valor de  nickname:nathuse
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197dc68)
+
+
+	Valor de  id                :2147538
+	Valor de  nickname:zaara75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x19b72f0)
+
+
+	Valor de  id                :2646346
+	Valor de  nickname:a-decouvrir26
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197db00)
+Existe
+
+
+	Valor de  id                :1757121
+	Valor de  nickname:la-malabaraise
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197da70)
+
+
+	Valor de  id                :2160885
+	Valor de  nickname:pipator
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197da88)
+
+
+	Valor de  id                :2819983
+	Valor de  nickname:ladygrenadine75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197db48)
+Existe
+
+
+	Valor de  id                :1232772
+	Valor de  nickname:lyna1100
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x197db18)
+
+
+	Valor de  id                :1985827
+	Valor de  nickname:carlhota
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x19b7320)
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODgzOTUwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkbHRMbkVURWNcL05MOGhsXC94QXZcL2MyLlpLc1wvRVNlcVFqb2ZmOWM5bmtWVnNLLjNGck1aV2lHIiwiZW1haWxfaGFzaCI6IiQyeSQxMCRKWE5IUjdFb2JhUGVPUmxoZElseldlZVd6ZW5kQzE4MC5hZnJybUo3MDJ3SE5zcXdcL2h5Y0MifQ.IxrtzYtxpp8ERxFUYKzmHM0QzM3ZhV8nfp0qcGckglk
+
+........................................................................
+
+
+	Valor de  id                :760387
+	Valor de  nickname:maryjoe
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x139aba8)
+Existe
+
+
+	Valor de  id                :1991874
+	Valor de  nickname:volupie-bi
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42c68)
+
+
+	Valor de  id                :2751346
+	Valor de  nickname:isabellanna
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d7c2f0)
+
+
+	Valor de  id                :2147070
+	Valor de  nickname:vinithai78
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42b00)
+
+
+	Valor de  id                :3089046
+	Valor de  nickname:anginha
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42a70)
+Existe
+
+
+	Valor de  id                :2766680
+	Valor de  nickname:DIDOU_NATUR75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42a88)
+
+
+	Valor de  id                :1232772
+	Valor de  nickname:lyna1100
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42b48)
+Existe
+
+
+	Valor de  id                :2738285
+	Valor de  nickname:douceindecente
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42b18)
+Existe
+
+
+	Valor de  id                :2646346
+	Valor de  nickname:a-decouvrir26
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d7c320)
+Existe
+
+
+	Valor de  id                :2976361
+	Valor de  nickname:Mdelices_91
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42aa0)
+Existe
+
+
+	Valor de  id                :2256157
+	Valor de  nickname:lolitamaso
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d7c338)
+Existe
+
+
+	Valor de  id                :1854504
+	Valor de  nickname:cosmicgirl
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x139aba8)
+
+
+	Valor de  id                :2515659
+	Valor de  nickname:encoreplusloin
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42c68)
+Existe
+
+
+	Valor de  id                :3159491
+	Valor de  nickname:Ange75015
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d7c2f0)
+
+
+	Valor de  id                :2566062
+	Valor de  nickname:rose2016
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42b00)
+
+
+	Valor de  id                :2197280
+	Valor de  nickname:mdr75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42a70)
+Existe
+
+
+	Valor de  id                :2456050
+	Valor de  nickname:torridebi75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42a88)
+
+
+	Valor de  id                :2875994
+	Valor de  nickname:caress-tropical
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42b48)
+
+
+	Valor de  id                :2898042
+	Valor de  nickname:darklady01
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d42b18)
+
+
+	Valor de  id                :1757121
+	Valor de  nickname:la-malabaraise
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1d7c320)
+Existe
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODg0MzEwNCwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkYUh2dzJOOVlWWVBkVFhvc3FMV2VuZWZYVkhrRXluZXlaaXNiZlFmUks1Mm1nRmw5THJGN20iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJHYxZ0NOSGkyUkpyRHdFQVFpYXZVamUuYU9VY1F5UWx4dVBaQ3hUZTk4azBvdXhcL0ttbi44UyIsInVwZGF0ZXRtIjoxNTA4ODQzMTA1LCJ1cHQiOiIxIiwidWFwMCI6MzB9.l7W20R0eWdSx0ovAjImdkbp-1Aw0rRpwc6ASI73f0CY
+
+........................................................................
+
+
+	Valor de  id                :1448233
+	Valor de  nickname:sensitivekind
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b76ba8)
+
+
+	Valor de  id                :2178377
+	Valor de  nickname:venus78671
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251ec68)
+
+
+	Valor de  id                :2738285
+	Valor de  nickname:douceindecente
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x25582f0)
+Existe
+
+
+	Valor de  id                :495938
+	Valor de  nickname:odefleur
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251eb00)
+
+
+	Valor de  id                :1743326
+	Valor de  nickname:libertine_78
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251ea70)
+
+
+	Valor de  id                :3011358
+	Valor de  nickname:willow23
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251ea88)
+
+
+	Valor de  id                :738804
+	Valor de  nickname:bellenana75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251eb48)
+
+
+	Valor de  id                :2932939
+	Valor de  nickname:ma-irina
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251eb18)
+Existe
+
+
+	Valor de  id                :443921
+	Valor de  nickname:liberty77
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2558320)
+
+
+	Valor de  id                :997989
+	Valor de  nickname:garance63
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251eaa0)
+
+
+	Valor de  id                :2648206
+	Valor de  nickname:ma-92
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2558338)
+Existe
+
+
+	Valor de  id                :2620490
+	Valor de  nickname:ovni-g
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b76ba8)
+
+
+	Valor de  id                :2197280
+	Valor de  nickname:mdr75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251ec68)
+Existe
+
+
+	Valor de  id                :3197556
+	Valor de  nickname:ChouQuette974
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x25582f0)
+
+
+	Valor de  id                :2898042
+	Valor de  nickname:darklady01
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251eb00)
+Existe
+
+
+	Valor de  id                :2283063
+	Valor de  nickname:indiaivory75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251ea70)
+
+
+	Valor de  id                :3166343
+	Valor de  nickname:manya
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251ea88)
+Existe
+
+
+	Valor de  id                :3115529
+	Valor de  nickname:MlleOreo
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251eb48)
+
+
+	Valor de  id                :2339102
+	Valor de  nickname:assiachiara
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x251eb18)
+
+
+	Valor de  id                :2156724
+	Valor de  nickname:coffeecup
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2558320)
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODg0NjcwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkM2ttTHRrZEJOeUhHSmNPMGxpREZpdXFjTU8uSjl0eU0wVVAuMXBhSWRJeGtQazRob3FWbmkiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJEFoWGFiUmRPZE1DTlFkMHZCUHMyek9SRDJVNXpHYVNtV0tOU0ZZRC5iOVdVamNhUWhlT0lDIiwidXB0IjoiMSIsInVhcDAiOjMwfQ.756XieUvjLVrg8kMynC9NTXmLSUbAZvrVbzFCR8-rz4
+
+........................................................................
+
+
+	Valor de  id                :2339102
+	Valor de  nickname:assiachiara
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1a51ba8)
+Existe
+
+
+	Valor de  id                :2197280
+	Valor de  nickname:mdr75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9e48)
+Existe
+
+
+	Valor de  id                :2932939
+	Valor de  nickname:ma-irina
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x24332f0)
+Existe
+
+
+	Valor de  id                :3195082
+	Valor de  nickname:ButterflyCaught
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9b00)
+
+
+	Valor de  id                :2845813
+	Valor de  nickname:lyane78
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9a70)
+
+
+	Valor de  id                :1908269
+	Valor de  nickname:caro-lyne75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9a88)
+
+
+	Valor de  id                :2835115
+	Valor de  nickname:th_83
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9b48)
+
+
+	Valor de  id                :3120524
+	Valor de  nickname:julie.r
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9b18)
+
+
+	Valor de  id                :2892912
+	Valor de  nickname:naya01
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2433320)
+
+
+	Valor de  id                :3041459
+	Valor de  nickname:pepito_b
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9aa0)
+
+
+	Valor de  id                :2603526
+	Valor de  nickname:hestia41
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2433338)
+
+
+	Valor de  id                :2515659
+	Valor de  nickname:encoreplusloin
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1a51ba8)
+Existe
+
+
+	Valor de  id                :2634028
+	Valor de  nickname:sapotillantille
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9e48)
+
+
+	Valor de  id                :2593197
+	Valor de  nickname:mitsouko_15
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x24332f0)
+
+
+	Valor de  id                :2836765
+	Valor de  nickname:rebelionne
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9b00)
+
+
+	Valor de  id                :495271
+	Valor de  nickname:cok_in
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9a70)
+Existe
+
+
+	Valor de  id                :2819983
+	Valor de  nickname:ladygrenadine75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9a88)
+Existe
+
+
+	Valor de  id                :1025580
+	Valor de  nickname:soireesdejade
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9b48)
+
+
+	Valor de  id                :2976361
+	Valor de  nickname:Mdelices_91
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x23f9b18)
+Existe
+
+
+	Valor de  id                :2497430
+	Valor de  nickname:queenhel
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2433320)
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODg1MDMwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkbXcuM1wvSm1OVzl2d1Z0cFdhTnpxbi5sU08wYjdhd1wvYWE2M293MTh2bVwvRG1HSTZHbU40YVMiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJHZzT3pnS0V1VWRPcFJaZ0ppRVwvTDB1dnRENXBTNFlDWDFDTWRJYjNJXC9sMUNYR29cLzZ4aFEuIn0.LdOlOvzqu4k-ZA2wUHp8lrpbmKteKKUjt5x_U8fBY74
+
+........................................................................
+
+
+	Valor de  id                :2634028
+	Valor de  nickname:sapotillantille
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1199ba8)
+Existe
+
+
+	Valor de  id                :3000613
+	Valor de  nickname:purity64
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41cf8)
+
+
+	Valor de  id                :3126270
+	Valor de  nickname:sexycoquine75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b7b2f0)
+
+
+	Valor de  id                :2466443
+	Valor de  nickname:lana45
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41b00)
+
+
+	Valor de  id                :2822590
+	Valor de  nickname:Azias
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41a70)
+
+
+	Valor de  id                :1206391
+	Valor de  nickname:salamenda
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41a88)
+
+
+	Valor de  id                :2136718
+	Valor de  nickname:amouretsens_92
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41b48)
+Existe
+
+
+	Valor de  id                :1535522
+	Valor de  nickname:see-you
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41b18)
+
+
+	Valor de  id                :3141477
+	Valor de  nickname:Mojitsolo
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b7b320)
+Existe
+
+
+	Valor de  id                :2676106
+	Valor de  nickname:mllelara
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41aa0)
+
+
+	Valor de  id                :2256215
+	Valor de  nickname:ana78500
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b7b338)
+
+
+	Valor de  id                :2653855
+	Valor de  nickname:gwendoline13
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1199ba8)
+Existe
+
+
+	Valor de  id                :2339102
+	Valor de  nickname:assiachiara
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41cf8)
+Existe
+
+
+	Valor de  id                :2553698
+	Valor de  nickname:mymylene_isback
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b7b2f0)
+
+
+	Valor de  id                :3120996
+	Valor de  nickname:Minounett
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41b00)
+Existe
+
+
+	Valor de  id                :2639898
+	Valor de  nickname:invictus60
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41a70)
+
+
+	Valor de  id                :3159287
+	Valor de  nickname:alexandrine1
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41a88)
+
+
+	Valor de  id                :2854738
+	Valor de  nickname:laurasou
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41b48)
+
+
+	Valor de  id                :2784562
+	Valor de  nickname:Clas93
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b41b18)
+
+
+	Valor de  id                :1820395
+	Valor de  nickname:saveurlili
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1b7b320)
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODg1MzkwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkbFg0QmE3MXdNdWV4dG00VlZqaWdldXRoY2xPd2dzVGpHLlNpQ2RHODBTZkFhUFZLSVNxQ2UiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGQuUDJlUW5Ud05oV1MzLmpSV29MOWVqRjRKdGZEQUxxdWhHTzhMczhNUW4xbXp2bmZ0TW5xIn0.pu_s6c2zrCLL4vDnbKBjdFgx9B-NYoBQ3AdCNSXhFis
+
+........................................................................
+
+
+	Valor de  id                :3092015
+	Valor de  nickname:a_venus
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2324ba8)
+
+
+	Valor de  id                :3120524
+	Valor de  nickname:julie.r
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2ccce48)
+Existe
+
+
+	Valor de  id                :2056618
+	Valor de  nickname:dolfinette
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2d062f0)
+
+
+	Valor de  id                :3120996
+	Valor de  nickname:Minounett
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2cccb00)
+Existe
+
+
+	Valor de  id                :743532
+	Valor de  nickname:miss_chocolat
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2ccca70)
+
+
+	Valor de  id                :2708808
+	Valor de  nickname:Milah
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2ccca88)
+
+
+	Valor de  id                :3100464
+	Valor de  nickname:ange-ou-demon94
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2cccb48)
+Existe
+
+
+	Valor de  id                :2769267
+	Valor de  nickname:switycandy
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2cccb18)
+
+
+	Valor de  id                :2356078
+	Valor de  nickname:loveblacks95
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2d06320)
+
+
+	Valor de  id                :1854504
+	Valor de  nickname:cosmicgirl
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2cccaa0)
+Existe
+
+
+	Valor de  id                :652170
+	Valor de  nickname:1001-nuits
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2d06338)
+Existe
+
+
+	Valor de  id                :3194161
+	Valor de  nickname:Eva_75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2324ba8)
+
+
+	Valor de  id                :2515659
+	Valor de  nickname:encoreplusloin
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2ccce48)
+Existe
+
+
+	Valor de  id                :2967370
+	Valor de  nickname:Lza11
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2d062f0)
+
+
+	Valor de  id                :2995169
+	Valor de  nickname:Jenny.Jo
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2cccb00)
+
+
+	Valor de  id                :3193344
+	Valor de  nickname:La_cokine_75000
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2ccca70)
+
+
+	Valor de  id                :2339102
+	Valor de  nickname:assiachiara
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2ccca88)
+Existe
+
+
+	Valor de  id                :3111216
+	Valor de  nickname:coquine77177
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2cccb48)
+
+
+	Valor de  id                :3083240
+	Valor de  nickname:angeoudemon111
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2cccb18)
+
+
+	Valor de  id                :2603526
+	Valor de  nickname:hestia41
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2d06320)
+Existe
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODg1NzUwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkbFROSW9pNkFTSUFORFoxbkxDMGQxdW5rcEgxVXBaZUdDbmxQV25ZMmFROTJEdEFISDIxM2EiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJEFuLjJUeHhKWW92T3pvNjBNazNMaU8uVWcuMm9XMmhjVno4LjZLMFRiXC9IRmNCWTRqMmh3NiIsInVwdCI6IjEiLCJ1YXAwIjozMH0.lqDiZlwfXPPKxgzNuvTdzamuqRahrIRrSYsTIZag1e0
+
+........................................................................
+
+
+	Valor de  id                :3197074
+	Valor de  nickname:Badga
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x25d9ba8)
+
+
+	Valor de  id                :3140898
+	Valor de  nickname:miksi7531
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81c68)
+Existe
+
+
+	Valor de  id                :1782758
+	Valor de  nickname:sietnon
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2fbb2f0)
+
+
+	Valor de  id                :3061229
+	Valor de  nickname:Omega00
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81b00)
+
+
+	Valor de  id                :3141671
+	Valor de  nickname:Cougar_Exigence
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81a70)
+
+
+	Valor de  id                :1112002
+	Valor de  nickname:parisienne4you
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81a88)
+
+
+	Valor de  id                :743532
+	Valor de  nickname:miss_chocolat
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81b48)
+Existe
+
+
+	Valor de  id                :2706470
+	Valor de  nickname:siouxsie75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81b18)
+
+
+	Valor de  id                :3092015
+	Valor de  nickname:a_venus
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2fbb320)
+Existe
+
+
+	Valor de  id                :3193344
+	Valor de  nickname:La_cokine_75000
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81aa0)
+Existe
+
+
+	Valor de  id                :2058289
+	Valor de  nickname:messaline.92
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2fbb338)
+Existe
+
+
+	Valor de  id                :2804160
+	Valor de  nickname:Celie972
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x25d9ba8)
+
+
+	Valor de  id                :3120996
+	Valor de  nickname:Minounett
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81c68)
+Existe
+
+
+	Valor de  id                :2898042
+	Valor de  nickname:darklady01
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2fbb2f0)
+Existe
+
+
+	Valor de  id                :2333144
+	Valor de  nickname:lafeclochette
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81b00)
+
+
+	Valor de  id                :2937337
+	Valor de  nickname:pti-diablesse78
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81a70)
+
+
+	Valor de  id                :2674514
+	Valor de  nickname:jupulpeuse
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81a88)
+
+
+	Valor de  id                :1816643
+	Valor de  nickname:libertine77500
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81b48)
+
+
+	Valor de  id                :2492487
+	Valor de  nickname:jeuxdintention
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2f81b18)
+
+
+	Valor de  id                :2623272
+	Valor de  nickname:vilam
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x2fbb320)
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODg2MTEwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkR0JPSW5lQVNSemdmelVTNW5uQUxUdTdOeTd3ajBcL1N4TjJNeURya0s2WGNXZmM3XC9ZdUFjNiIsImVtYWlsX2hhc2giOiIkMnkkMTAkXC9yd1RcL0hrS2pFZmpQWWZrcVwvaHRLLkh0ZkJ0Slh3QTBIUUZadnhOeW5OdGJBcnAuaUJHWnkifQ.JnalfjStQ8ZAx8O9vbosUsEGJ6wGEMKguFki0YlLMss
+
+........................................................................
+
+
+	Valor de  id                :2650052
+	Valor de  nickname:mela_back
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x25ceba8)
+
+
+	Valor de  id                :3152551
+	Valor de  nickname:elle89
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76e48)
+
+
+	Valor de  id                :2197280
+	Valor de  nickname:mdr75
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2fb02f0)
+
+
+	Valor de  id                :2109260
+	Valor de  nickname:lblyes
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76aa0)
+
+
+	Valor de  id                :2745932
+	Valor de  nickname:asiatgirl
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2fb0338)
+
+
+	Valor de  id                :3082960
+	Valor de  nickname:kat68
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76b78)
+
+
+	Valor de  id                :2816059
+	Valor de  nickname:prisca76
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76b30)
+
+
+	Valor de  id                :1349131
+	Valor de  nickname:coquineparis
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76b18)
+
+
+	Valor de  id                :2904240
+	Valor de  nickname:evene95
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2fb02a8)
+
+
+	Valor de  id                :2461761
+	Valor de  nickname:f-coquine
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x25ceba8)
+
+
+	Valor de  id                :3083240
+	Valor de  nickname:angeoudemon111
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76e48)
+
+
+	Valor de  id                :2348931
+	Valor de  nickname:stef1975
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2fb02f0)
+
+
+	Valor de  id                :3141671
+	Valor de  nickname:Cougar_Exigence
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76aa0)
+
+
+	Valor de  id                :2590808
+	Valor de  nickname:a_nnelise
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2fb0338)
+
+
+	Valor de  id                :2611103
+	Valor de  nickname:luna2655
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76b78)
+
+
+	Valor de  id                :3100464
+	Valor de  nickname:ange-ou-demon94
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76b30)
+
+
+	Valor de  id                :3092015
+	Valor de  nickname:a_venus
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76b18)
+
+
+	Valor de  id                :1741970
+	Valor de  nickname:felegante
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2fb02a8)
+
+
+	Valor de  id                :443921
+	Valor de  nickname:liberty77
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x25ceba8)
+
+
+	Valor de  id                :3114360
+	Valor de  nickname:jessou77
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2f76e48)
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODg2NDcwNSwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWTdBUk5obkdmQTBjeXVIVUVhLmtWT3A2YVdFOVhKajEuNjgwekFtVnpoNmE0b1ZTNUpFa0siLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJHMyaFQ2d0lCaVl6dUVoa1R5aTduVi43cERlUUZkYng4cWNSVVlKLkR5TXVLc2dlTnlMbXM2In0.pKIT1h3fmAeAkoTnkwuJH6bCmu4mKgy3t8gKZ6QLyAE
+
+........................................................................
+
+
+	Valor de  id                :3193546
+	Valor de  nickname:Maria211
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1564ba8)
+
+
+	Valor de  id                :2620490
+	Valor de  nickname:ovni-g
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0ccf8)
+
+
+	Valor de  id                :3120996
+	Valor de  nickname:Minounett
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f462f0)
+
+
+	Valor de  id                :2896175
+	Valor de  nickname:lilia8989
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0caa0)
+
+
+	Valor de  id                :2967370
+	Valor de  nickname:Lza11
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f46338)
+
+
+	Valor de  id                :3111216
+	Valor de  nickname:coquine77177
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0cb78)
+
+
+	Valor de  id                :2910873
+	Valor de  nickname:Nykyky
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0cb30)
+
+
+	Valor de  id                :2745932
+	Valor de  nickname:asiatgirl
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0cb18)
+
+
+	Valor de  id                :1617015
+	Valor de  nickname:bellalatina92
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f462a8)
+
+
+	Valor de  id                :2674514
+	Valor de  nickname:jupulpeuse
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1564ba8)
+
+
+	Valor de  id                :1584081
+	Valor de  nickname:iseult9
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0ccf8)
+
+
+	Valor de  id                :3021295
+	Valor de  nickname:angefeline75
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f462f0)
+
+
+	Valor de  id                :3114360
+	Valor de  nickname:jessou77
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0caa0)
+
+
+	Valor de  id                :2293772
+	Valor de  nickname:la_despe_red
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f46338)
+
+
+	Valor de  id                :2962758
+	Valor de  nickname:satinne
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0cb78)
+
+
+	Valor de  id                :2457766
+	Valor de  nickname:chrislo78
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0cb30)
+
+
+	Valor de  id                :2913882
+	Valor de  nickname:catwom
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0cb18)
+
+
+	Valor de  id                :2845813
+	Valor de  nickname:lyane78
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f462a8)
+
+
+	Valor de  id                :2599031
+	Valor de  nickname:cokine78
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1564ba8)
+
+
+	Valor de  id                :2976361
+	Valor de  nickname:Mdelices_91
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1f0ccf8)
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv format=xls separa=; mv /var/www/JEAN_F_T/log/log_wyylde_17-10-24.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-24.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+

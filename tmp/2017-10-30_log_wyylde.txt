@@ -1,0 +1,376 @@
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwOTM1MjgxNywiX19pZCI6IjMxOTEwNDkiLCJfX25hbWUiOiJzYXJhLmxvcGV6IiwiX19zdGF0ZXMiOltdLCJwYXNzd29yZF9oYXNoIjoiJDJ5JDEwJG1ORWlMUEg2V040alN1Lm5ES3dJRHV6UlZ6bXp1eHNqMzRWY1NjOW9LZ250dG5CcHJCTnpHIiwiZW1haWxfaGFzaCI6IiQyeSQxMCR1OWd2Z0pRUG5iVW5DWTlNb0psSkVlS1lGTHliR3RmU2UzZklYbUtSOG9ZTWZoTEFib0thVyIsInVwdCI6IjIiLCJ1YXAxIjozNH0.T1FHS-0DjkeGaiKJ0m1tmshZrmFRUlx8nXMkFnk2GRM
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwOTM1NzM1OSwiX19pZCI6IjMxOTEwNDkiLCJfX25hbWUiOiJzYXJhLmxvcGV6IiwiX19zdGF0ZXMiOltdLCJwYXNzd29yZF9oYXNoIjoiJDJ5JDEwJEFxMnRxS3plODhpdFltaTFNak5idU9EdmVyTVVcL2xRc2Zvcllhd0JSUjRJejdhNzZYYzA2TyIsImVtYWlsX2hhc2giOiIkMnkkMTAkMENkVms4WG9XaWNGYUJtZHFqUzl5TzZCQ3dtYUp3b1Q5N0lBWnFFZDBUakdhQjM3Qi45U0sifQ.hEX5fq74PxmMbabdjuQUuXuY2VI0cXMIHig4l6b2Hjk
+
+........................................................................
+
+
+	Valor de  id                :3191049
+	Valor de  nickname:sara.lopez
+	Message has already been sent to this user
+
+	Valor de  id                :2240434
+	Valor de  nickname:chynnae
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x12ac998)
+
+
+	Valor de  id                :3191713
+	Valor de  nickname:sofia778
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c8ccf8)
+
+
+	Valor de  id                :2611103
+	Valor de  nickname:luna2655
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c8ccb0)
+Existe
+
+
+	Valor de  id                :2998057
+	Valor de  nickname:marion_92
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c53550)
+
+
+	Valor de  id                :2270997
+	Valor de  nickname:lola101278
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c534c0)
+
+
+	Valor de  id                :3086837
+	Valor de  nickname:Parisienne.95
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c53490)
+
+
+	Valor de  id                :3056013
+	Valor de  nickname:caropsg
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c534d8)
+
+
+	Valor de  id                :738014
+	Valor de  nickname:epicurieuse75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c534a8)
+
+
+	Valor de  id                :3082960
+	Valor de  nickname:kat68
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c8cd40)
+
+
+	Valor de  id                :2798557
+	Valor de  nickname:tarada
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c534f0)
+
+
+	Valor de  id                :3135960
+	Valor de  nickname:Naiadax
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c535b0)
+
+
+	Valor de  id                :3175159
+	Valor de  nickname:marie-12
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x12ac998)
+
+
+	Valor de  id                :1584081
+	Valor de  nickname:iseult9
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c8ccf8)
+
+
+	Valor de  id                :3169698
+	Valor de  nickname:isabelle02
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c8ccb0)
+
+
+	Valor de  id                :2537285
+	Valor de  nickname:bellazela
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c53550)
+
+
+	Valor de  id                :2210227
+	Valor de  nickname:flowers69
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c534c0)
+
+
+	Valor de  id                :1596230
+	Valor de  nickname:lionnesauvage94
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c53490)
+
+
+	Valor de  id                :3194161
+	Valor de  nickname:Eva_75
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c534d8)
+Existe
+
+
+	Valor de  id                :2973556
+	Valor de  nickname:Feline75016
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1c534a8)
+
+perl /var/www/robot/format.pl file=/var/www/JEAN_F_T/log/log_wyylde_17-10-30.csv format=xls separa=; Can't open /var/www/JEAN_F_T/log/log_wyylde_17-10-30.csv : No such file or directory at /var/www/robot/format.pl line 672.
+mv /var/www/JEAN_F_T/log/log_wyylde_17-10-30.csv.xls  /var/www/JEAN_F_T/log/log_wyylde_17-10-30.xls
+bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/log/log_wyylde_17-10-30.xls /wyylde/log/bash /var/www/robot/util/dropbox/dropbox_uploader.sh upload  /var/www/JEAN_F_T/UNIQUE_wyylde /wyylde/data/
+
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwOTM1NzM1OSwiX19pZCI6IjMxOTEwNDkiLCJfX25hbWUiOiJzYXJhLmxvcGV6IiwiX19zdGF0ZXMiOltdLCJwYXNzd29yZF9oYXNoIjoiJDJ5JDEwJEFxMnRxS3plODhpdFltaTFNak5idU9EdmVyTVVcL2xRc2Zvcllhd0JSUjRJejdhNzZYYzA2TyIsImVtYWlsX2hhc2giOiIkMnkkMTAkMENkVms4WG9XaWNGYUJtZHFqUzl5TzZCQ3dtYUp3b1Q5N0lBWnFFZDBUakdhQjM3Qi45U0sifQ.hEX5fq74PxmMbabdjuQUuXuY2VI0cXMIHig4l6b2Hjk
+
+........................................................................
+
+
+	Valor de  id                :2798557
+	Valor de  nickname:tarada
+	Valor de  status:success
+	Valor de  errors:ARRAY(0xf09998)
+Existe
+Missing right curly or square bracket at /var/www/JEAN_F_T/wyylde_bot.pl line 239, at end of line
+syntax error at /var/www/JEAN_F_T/wyylde_bot.pl line 239, at EOF
+Execution of /var/www/JEAN_F_T/wyylde_bot.pl aborted due to compilation errors.
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwOTM2Nzg3NiwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWFVRY0paTWw2cnAxdGguSnZ4YWRWdVIySU9YdlU2SHdISVRcL1wvWDNibGJheS5zeDlQNFVxaSIsImVtYWlsX2hhc2giOiIkMnkkMTAkMHZ2bmlhMndadTI1T3hrRFwvV21BZ3UzS1RyRGRjQ00yakpyS25lYzd4c0R3Yzg2S04wSGlDIn0.LDy3XhPrsWOxMFHlL7q_P3MTllqp0tUt-k6KRpLr-NA
+
+........................................................................
+
+
+	Valor de  id                :2639748
+	Valor de  nickname:laramo
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1420998)
+
+
+	Valor de  id                :3206422
+	Valor de  nickname:erossensuelle
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1dc7670)
+
+
+	Valor de  id                :2197280
+	Valor de  nickname:mdr75
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1e00cf8)
+
+
+	Valor de  id                :2723087
+	Valor de  nickname:Sabrinawyylde
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1dc74a8)
+
+
+	Valor de  id                :2285124
+	Valor de  nickname:lunasola
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1e00d40)
+
+
+	Valor de  id                :743532
+	Valor de  nickname:miss_chocolat
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1dc7580)
+
+
+	Valor de  id                :2946182
+	Valor de  nickname:Kannelia
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1dc7538)
+
+
+	Valor de  id                :2386597
+	Valor de  nickname:peutaitreoui
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1dc7520)
+
+
+	Valor de  id                :2706470
+	Valor de  nickname:siouxsie75
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1e00cb0)
+
+
+	Valor de  id                :2621666
+	Valor de  nickname:sah-sah93
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1420998)
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwOTM2ODEwMiwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkbFE1YlZJTWQ1N05OOFh5d3hGZHFmLmJIclwvaVV2ZHJEbnBIQ2plcUx0YzBacFNxcTRcLzduRyIsImVtYWlsX2hhc2giOiIkMnkkMTAkQ25ad2piTC5cL3FTb3NRV1F5WDNKSC5JdmNhTlBpekV2dDJvZVU5VmR5TFBwWnVDOG1nNWNDIn0.2IXe3ODT-zzDuCDFclnf0cmG7TGpvzcPxFCZV_75QNA
+
+........................................................................
+
+
+	Valor de  id                :2913581
+	Valor de  nickname:Susie75019
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x69bba8)
+
+
+	Valor de  id                :2422214
+	Valor de  nickname:sherggar
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1042580)
+
+
+	Valor de  id                :2639898
+	Valor de  nickname:invictus60
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x107bc08)
+
+
+	Valor de  id                :2626059
+	Valor de  nickname:lionnne
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x10423b8)
+
+
+	Valor de  id                :3159287
+	Valor de  nickname:alexandrine1
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x107bc50)
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwOTM2Nzg3NiwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWFVRY0paTWw2cnAxdGguSnZ4YWRWdVIySU9YdlU2SHdISVRcL1wvWDNibGJheS5zeDlQNFVxaSIsImVtYWlsX2hhc2giOiIkMnkkMTAkMHZ2bmlhMndadTI1T3hrRFwvV21BZ3UzS1RyRGRjQ00yakpyS25lYzd4c0R3Yzg2S04wSGlDIn0.LDy3XhPrsWOxMFHlL7q_P3MTllqp0tUt-k6KRpLr-NA
+
+........................................................................
+
+
+	Valor de  id                :2537285
+	Valor de  nickname:bellazela
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x1ceb998)
+
+
+	Valor de  id                :2187830
+	Valor de  nickname:lylou28
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x2692850)
+
+
+	Valor de  id                :3202667
+	Valor de  nickname:La_Chatelaine
+	Valor de  status:failed
+	Valor de  errors:ARRAY(0x26cbcf8)
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwOTM2Nzg3NiwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWFVRY0paTWw2cnAxdGguSnZ4YWRWdVIySU9YdlU2SHdISVRcL1wvWDNibGJheS5zeDlQNFVxaSIsImVtYWlsX2hhc2giOiIkMnkkMTAkMHZ2bmlhMndadTI1T3hrRFwvV21BZ3UzS1RyRGRjQ00yakpyS25lYzd4c0R3Yzg2S04wSGlDIn0.LDy3XhPrsWOxMFHlL7q_P3MTllqp0tUt-k6KRpLr-NA
+
+........................................................................
+
+
+	Valor de  id                :2639748
+	Valor de  nickname:laramo
+	Valor de  status:failed
+	Valor de  errors:$VAR1 = [
+          {
+            'id' => 'MSG-004',
+            'message' => 'Message not sent (blacklisted).'
+          }
+        ];
+
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwOTM2Nzg3NiwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWFVRY0paTWw2cnAxdGguSnZ4YWRWdVIySU9YdlU2SHdISVRcL1wvWDNibGJheS5zeDlQNFVxaSIsImVtYWlsX2hhc2giOiIkMnkkMTAkMHZ2bmlhMndadTI1T3hrRFwvV21BZ3UzS1RyRGRjQ00yakpyS25lYzd4c0R3Yzg2S04wSGlDIn0.LDy3XhPrsWOxMFHlL7q_P3MTllqp0tUt-k6KRpLr-NA
+
+........................................................................
+
+
+	Valor de  id                :1519858
+	Valor de  nickname:sexthdimension
+Not a HASH reference at /var/www/JEAN_F_T/wyylde_bot.pl line 103.
+	Valor de  status:failed
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+	Valor de  token                :eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwOTM5MTY1NCwiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkVmNlNUVZVG5CamRpb1V2ODJ5SmhQZXVcL0U2dExaUW5rQmVpeGJwMnFRaGZsSEJ3RGFCRElXIiwiZW1haWxfaGFzaCI6IiQyeSQxMCRhOTdXeGhDZ0FWY2tIXC9rY3dmOFdhdUhyVXpFZnpic2pvMktLeXpJWE5YTDJtQ00xejFuVDIifQ.FPv8QTUMDXcgn5f6YitjEThmOZfR1LyGiLhUJeSgP5Y
+
+........................................................................
+
+
+	Valor de  id                :2197280
+	Valor de  nickname:mdr75
+	Valor de  status:failed
+	Valor de  errors:Message not sent (blacklisted).
